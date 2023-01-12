@@ -14,7 +14,7 @@
     <name>jvm_pratice</name>
     <description>jvm_pratice</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>12</java.version>
     </properties>
     <dependencies>
         <dependency>
